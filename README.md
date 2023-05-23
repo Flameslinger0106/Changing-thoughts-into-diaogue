@@ -3,4 +3,6 @@ This repository contains the Altium PCB design for a project that we had in whic
 
 There is a report attached alongside the actual files associated with the design that contains all the restrictions that were to be taken into account while designing the said PCB.
 
+If you are having difficulty in understanding the motive or working please look at the "Report file for T-A project" in the file section.
+
 Please do not copy and paste the files as they are and make sure to email me first at - anmolyadav0106@gmail.com if you need to talk about importing certain parts of the project.
